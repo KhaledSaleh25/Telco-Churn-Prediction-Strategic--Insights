@@ -36,10 +36,13 @@ Service Vulnerability: Fiber Optic users are more likely to leave due to high co
 
 Project Screenshots
 Executive Dashboard (Overview)
+![Overview](img1.png)
 
 Strategic Insights and Recommendations
+![Insights](img2.png)
 
 AI-Powered Churn Drivers (Key Influencers)
+![AI Analysis](img3.png)
 
 Repository Content
 /Sql: SQL queries used for EDA and validation.
